@@ -12,3 +12,18 @@
     right:20px;
     top:25px;
     display:block;
+				margin-top: 2em;
+			}
+
+/* Banner */
+
+	#banner {
+		padding: 4em 0;
+	}
+
+		#banner h2 {
+			font-size: 2.25em;
+		}
+
+		#banner p {
+			font-size: 1.25em;
